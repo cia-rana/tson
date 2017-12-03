@@ -1,5 +1,5 @@
 # tson
-**tson**() is a JSON parser for Go that is able to change the time format flexibly.
+**tson** is a JSON parser for Go that is able to change the time format flexibly.
 
 ## Installation
 
