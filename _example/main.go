@@ -21,7 +21,7 @@ var jsonString = `
 {
 	"feature": {
 		"name": "cia-rana",
-		"birth": "1988-10-10"
+		"birth": "1987-10-08"
 	},
 	"created_at": "2017-12-05"
 }
